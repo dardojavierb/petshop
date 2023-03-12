@@ -1,0 +1,48 @@
+.oferta{
+    background-color: black;
+    position: relative;
+    width: 100%;
+    
+    font-style: normal;
+    color: white;
+    height: 25px;
+    padding: 15px; 
+
+    
+}
+.menu{
+    display: flex;
+    background-color: #F0A83E;
+    margin-top: 0px;
+    height: 100px;
+    padding: 15px;
+    width: 100%;
+}
+.cat{
+    color: white;
+}
+.menu1{
+    display: flex;
+    align-content: center;
+    height: 100px;
+    text-align: right;
+}
+.imagen{
+    display: flex;
+    background-image: url(/imagenes/bowl.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    margin-top: 0px;
+    text-align: right;
+    
+
+}
+.menu2{
+    text-align: right;
+    position: absolute;
+}
+.placer{
+    text-align: end;
+    position: absolute;
+}
